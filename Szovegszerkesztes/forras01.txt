@@ -1,0 +1,18 @@
+﻿Karakterformázás.
+A formázás eszköztáron betűtípust (angol elnevezése: font) választhatunk, illetve módosíthatjuk a betűméretet. A legelterjedtebb betűtípusok
+Times New Roman CE, Arial CE, Courier New CE.
+Betűméret: nyolc (8), tíz (10), tizenkettő (12), tizennégy (14), tizenhat (16) pont.
+
+A formázás eszköztár gombjaira kattintva, Félkövér, Dőlt és Aláhúzott formázást kapcsolhatjuk be vagy ki. Természetesen ezeket a formátumokat együtt is alkalmazhatjuk: félkövér-dőlt, dőlt-aláhúzott, stb.
+A karakter formátumait a kijelölt szöveghez utólag is megváltoztathatjuk.
+
+A szöveg kijelöléséhez tartsuk lenyomva az egér bal gombját, és a kurzort húzzuk a kijelölendő szöveg fölött, vagy nyomjuk le a Shift billentyűt, és használjuk a billentyűket. Törléshez jelöljük ki a szöveget, majd nyomjuk le a Backspace vagy a Delete billentyűt.
+
+Ha hibát követünk el, kattintsunk a Szokásos eszköztáron a Visszavonás ikonra.
+
+Ha egyetlen szót akarunk kijelölni, kattintsunk kettőt a szóra. Mondatot úgy jelölhetjük ki, hogy lenyomjuk a Ctrl billentyűt, és egyet kattintunk az egérrel.
+Bekezdés kijelöléséhez kattintsunk kettőt a szövegkiemelő sávon, az ablak bal oldalán (a bal margó alatt). Háromszori kattintással ugyanazt az eredményt érjük el a bekezdésben. Így lehet kijelölni az egész dokumentumot. Pl. ha betűtípust vagy méretet akarunk változtatni.
+
+További formázásokat a Formátum menü, betűtípus parancsával készíthetünk.
+Például: felső index (m3, x-2 ), alsó index , (H2O, H2SO4), dupla aláhúzás, ritkított (2pt), sűrített (1pt).
+Áthúzott, Kiskapitális, emelt (6 pt),.süllyesztett (6 pt).
