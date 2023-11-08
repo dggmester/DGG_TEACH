@@ -1,0 +1,41 @@
+﻿Szöveg igazítása és a térköz beállítása
+Balra zárt bekezdés:
+A szöveg elhelyezkedését több tényező határozza meg. A margók a teljes szöveg oldalszélektől való távolságát szabják meg, a bekezdés margók közötti elhelyezkedése pedig a bekezdés behúzásától és igazításától függ. A sorok közti, valamint a bekezdések előtt és után álló térköz is meghatározható.
+
+Középre zárt:
+A szöveg elhelyezkedését több tényező határozza meg. A margók a teljes szöveg oldalszélektől való távolságát szabják meg, a bekezdés margók közötti elhelyezkedése pedig a bekezdés behúzásától és igazításától függ. A sorok közti, valamint a bekezdések előtt és után álló térköz is meghatározható.
+Jobbra zárt:
+A szöveg elhelyezkedését több tényező határozza meg. A margók a teljes szöveg oldalszélektől való távolságát szabják meg, a bekezdés margók közötti elhelyezkedése pedig a bekezdés behúzásától és igazításától függ. A sorok közti, valamint a bekezdések előtt és után álló térköz is meghatározható.
+Sorkizárt:
+A szöveg elhelyezkedését több tényező határozza meg. A margók a teljes szöveg oldalszélektől való távolságát szabják meg, a bekezdés margók közötti elhelyezkedése pedig a bekezdés behúzásától és igazításától függ. A sorok közti, valamint a bekezdések előtt és után álló térköz is meghatározható.
+
+Szöveg elhelyezése és igazítása
+Behúzás: Jobbra 10 cm
+A margók meghatározzák a fő szövegterület teljes szélességét, vagyis a szöveg és a lap széle közötti távolságot.
+Behúzás: Jobbra 2 cm, Balra 2 cm
+A behúzás a bekezdés jobb, illetve bal margótól való távolságát határozza meg, amelyet tetszés szerint növelhetünk vagy csökkenthetünk. Készíthetünk negatív behúzást („kihúzást”) is, mely a bekezdést a bal margó felé húzza, illetve függő behúzást is, amelyben az első sor nincs behúzva, a többi azonban az elsőhöz képest beljebb kezdődik.
+Behúzás: Balra 5 cm
+A vízszintes igazítás a bekezdés széleinek megjelenését és elhelyezkedését határozza meg. A bekezdés lehet balra zárt, jobbra zárt, középre zárt vagy sorkizárt. Balra zárt bekezdés (ez a legáltalánosabb) esetében például a bekezdés bal széle a bal margó vonalában van. 
+A függőleges igazítás a bekezdés felső és alsó margóhoz viszonyított helyzetét határozza meg. Ez például címlapok készítésekor hasznos, mert a szöveget tökéletesen a lap aljára vagy közepére igazíthatjuk, illetve kiegyenlítetten széthúzhatjuk a teljes lapon. 
+Bekezdések behúzásai – példák
+A szöveg első sorának behúzása:
+A szöveg elhelyezkedését több tényező határozza meg. A margók a teljes szöveg oldalszélektől való távolságát szabják meg, a bekezdés margók közötti elhelyezkedése pedig a bekezdés behúzásától és igazításától függ. A sorok közti, valamint a bekezdések előtt és után álló térköz is meghatározható.
+
+Függő behúzású szöveg:
+A szöveg elhelyezkedését több tényező határozza meg. A margók a teljes szöveg oldalszélektől való távolságát szabják meg, a bekezdés margók közötti elhelyezkedése pedig a bekezdés behúzásától és igazításától függ. A sorok közti, valamint a bekezdések előtt és után álló térköz is meghatározható.
+
+A sorok és bekezdések közötti térköz módosítása (térköz utána: 6 pt)
+A sortávolság a bekezdésben található szöveg sorainak egymástól való távolságát határozza meg. Alapértelmezés szerint a sorok szimpla sorközre vannak egymástól, ami azt jelenti, hogy a sorköz a sor legnagyobb karakterének helyigényénél egy kicsit nagyobb.
+(a fenti bekezdés sorköze 1,5 sor)
+A bekezdés térköze a bekezdés előtti vagy utáni távolságot határozza meg. Ha az ENTER billentyű lenyomásával kezdünk új bekezdést, a térköz az új bekezdésben is ugyanaz marad, de a beállításokat minden egyes bekezdésnél módosíthatjuk.
+(a fenti bekezdés térköz előtte: 12 pt, utána 12 pt; a bekezdés ki van jelölve)
+
+Ha egy sor nagyobb méretű karaktert, grafikát vagy képletet tartalmaz, akkor a Microsoft Word csak az adott sor sorközét növeli meg. Az egyenletes sorköz elérése érdekében használjunk pontos sorközbeállítást, és úgy határozzuk meg a távolságot, hogy a legnagyobb méretű karakter vagy grafika is elférjen. Ha az elemek teteje nem látszik, növeljük a sorközt.
+Sorköztípusok
+Szimpla: Az adott sorban lévő legnagyobb méretű karakternek megfelelő sorköznél valamivel nagyobb érték. A növekmény a használt betűtípus függvénye.
+1,5 sor: Az egyszeres sorköz értékének másfélszerese.
+Dupla: Az egyszeres sorköz értékének kétszerese.
+Legalább: Az adott sor legnagyobb méretű karakterének vagy grafikájának megjelenítését is lehetővé tevő legkisebb sorközméret.
+Pontosan: A megadott sorköz, amelyet a Microsoft Word nem módosít.
+Többszörös: A megadott értékkel megszorzott méretű sorköz. Ha például az értéket 1,2-re állítjuk, a sorköz 20 százalékkal növekedni fog.
+
