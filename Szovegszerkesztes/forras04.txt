@@ -1,0 +1,33 @@
+﻿
+Az első bekezdés	Balra igazított
+A második	Jobbra igazított
+A harmadik	Ez szintén
+A negyedik	Középre igazított
+Az ötödik	Középre
+A hatodok bekezdés (decimális)	0,23
+Hetedik (decimális)	178,2
+			
+	Dr. Kovács Pál	Bornemissza Aladár
+Fővilágosító	Lux Otilia
+Operatőr	Horváth Péter
+Rendezte	Benyovszki Bendegúz
+Producer	Gazdag Aladár
+Név	Részleg	Túlóra	Jutalom	Bér
+Kiss János	Asztalosműhely	8	15	192,5
+Nagy Albert	Tervező	15	22	256,6
+Bot Béla	Rendészet	2	5	92
+Kelep Elek	Igazgatóság	115	100	1240,8
+Jelentkezési Lap
+Kérem jelentkezésemet nyilvántartásba venni kosárfonó tanfolyamra.
+Név: 	
+Levelezési cím: 	
+Telefon: 	
+A tanfolyamról
+	a TV-ből
+	rádióból
+	újsághirdetésből
+	ismerőstől
+értesültem.
+Alulírott tudomásul veszem, hogy a tanfolyami díjat a kurzus kezdésekor  megkötött szerződés alapján fizetem.
+Budapest, 2001. 			
+	aláírás

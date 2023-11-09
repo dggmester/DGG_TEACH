@@ -1,0 +1,13 @@
+AZ iniciálé hagyományosan egy bekezdés elsõ, kiemelt betûje,  megjelenhet a bal margóban, a bekezdés elsõ sorában vagy az alapvonaltól megadott sorig lejjebb csúsztatva. A bekezdés leírása után, a Formátum menüpont, Iniciálé parancsával hozhatjuk létre.
+
+A dokumentumban vagy a dokumentum egy szakaszában megváltoztathatjuk a hasábok számát. Ha a hasábok számát csak a dokumentum egy részében kívánjuk megváltoztatni, akkor jelöljük ki a megváltoztatatni, kívánt bekezdéseket, (ügyelve arra, hogy a kijelölés után maradjon bekezdés, ami továbbra is egyhasábos lesz!) és a Formátum menüpont, Hasábok parancsával pontosan beállíthatjuk a hasábok tulajdonságait: (két hasáb, térköz 1 cm, választóvonal) 
+
+A Rajz eszköztár    bekapcsolva alakzatokat, különbözõ grafikai elemeket hozhatunk létre: 
+
+
+ 
+A szövegdoboz olyan téglalap, amelybe szöveget írhatunk, és azt az oldalon bárhová áthelyezhetjük. Szövegdoboz segítségével feliratozhatjuk képeinket vagy rajzainkat,  például képaláírással vagy ábrafelirattal.
+  Képeket a Beszúrás menüpont, Kép/Clip/Art paranccsal szúrhatunk be. A képet kijelölve beállíthatjuk, (Formátum / Kép) hogy a szöveg hogyan futassa körbe a képet, vagy térjen ki elõle.
+
+A  paranccsal mintázatott szöveg beszúrására van lehetõség. Ez a parancs a Rajz eszköztárban található.
+	

@@ -1,0 +1,32 @@
+1. nyissa meg a vakszoveg allományt a microsoft word szövegszerkesztõvel, megfelelõ kódolást válassza(2 pont)
+2. mentse el a megnyitott állományt  a 
+	*domumentumok mappán belül lévõ saját mappájába(1 pont)
+	*pfel1.docx néven(1 pont)
+3. nyissa meg az ecdl mintafeladatot ebbõl az 1. számú az öné
+4. a minta szerint javítsa ki a szöveget(1 pont)
+	*Betû méretezése [2 pont]
+	*Betûtípus módosítása [2 pont]
+	*Dõlt betûk [2 pont]
+	*Félkövér betûk [2 pont]
+	*Aláhúzott betûk [2 pont]
+	*Bekezdés sorkizárása [1 pont]
+	*Bekezdés középre igazítása [2 pont]
+	*Bekezdés elsõ sorának behúzása [1 pont]
+	*Keretezés (szegélyvonalak) [1 pont]
+	*Megfelelõ szélességben végzett keretezés [1 pont]
+	*Kiskapitális betûk [1 pont]
+	*Másfeles sorköz [1 pont]
+	*Aláíráshelyek tabulátorral (pontsorok és megfelelõ szövegigazítás) [2 pont]
+	*Egyéb pontsorok tabulátorral (keretes szöveg alatti két sor, pontsorok a középsõ részen) [1 pont = 2 x 0,5 pont]
+	*Aktuális dátum beszúrása (nem beírása) [1 pont]
+	*Margó beállítása [1 pont]
+	*Térköz [1 pont]
+5. készítsen körlevelet
+	*Dokumentum törzsdokumentumként történõ definiálása és az adatforrás csatolása [1 pont]
+	*A mezõk beillesztése a törzsdokumentum elejére [1 pont]
+	*A törzsdokumentum mentése [1 pont]
+	*Egyesítés új dokumentumba, majd a levelek mentése a megadott néven a megadott helyre [2 pont)
+6. nyomtassa ki a formázott dokumentumot valamilyen lehetséges fájltipusba [1 pont]
+
+
+

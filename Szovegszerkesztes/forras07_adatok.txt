@@ -1,0 +1,5 @@
+Név	Születési hely	Dátum	Hiányzás
+Kiss Pál	Beregszász	1980. március 12	5
+Horváth Marianna	Nagyszőlős	1982 január 15	2
+Balázs Péter	Bene	1979 május 1	8
+Kerekes Jolán	Beregszász	1981 július 8	13
