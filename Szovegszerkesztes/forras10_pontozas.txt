@@ -1,0 +1,36 @@
+Fedőlap:
+* balra fenn: iskola, bekezdés/balra igazítása és betűméret módosítása
+* szöveg, bekezdés/középre igazítása, térköz előtte utána
+* név, bekezdés/jobbra igazítva
+* fájl, nyomtatási kép ellenőrzés
+
+Tartalom jegyzék:
+* hivatkozás/tartalom/automatikus tartalomjegyzék
+* kezdőlap/stílusok/címsor1/formátum/bekezdés/szövegbeosztás/új oldalra
+* beszúrás/élőfej/élőfej szerkesztése/sajátnév
+* kezdőlap/bekezdés/tabulátorok
+* lap elrendezése/oldalbeállítás/margók
+* nézet/vonalzó
+* bekezdés/szegély és mintázat/hatókör:bekezdés/típus:egyéni/alsó vonal
+* beszúrás/oldalszám/formázás,oldalszámozás
+
+Lábjegyzet
+* hivatkozás/lábjegyzet beszúrása/beillesztés
+
+Kép
+* saját mappából
+* internetről nem jogvédett kép
+* új bekezdés/beszúrás/kép/saját mappa
+* helyi menü/méret/rögzített méretarány
+* helyi menü/képaláírás beszúrása
+* helyi menü/körbefuttatás
+* helyi menü/kép formázása/fényerő
+
+Tartalomjegyzék frissítése
+
+Források
+* könyv alapján
+* internetről/url cím/felhasználási dátum(hozzáfárs ideje:)
+
+Nyomtatás
+* fájl/mentés másként/fájl tipus:pdf
