@@ -1,0 +1,13 @@
+Sorszám	Név	F/L	1. feledat	2. feladat	3. feladat	4.feladat	5. feladat	Összesen	Jegy		Első(k):	2			
+1	Dózsa Ferenc	F	5	5	5	5	4	24	5	Jeles	Igen				
+2	Horváth Borbála	L	4	4	3	4	4	19	4	Jó					
+3	Cinege Ferenc	F	5	4	4	3	5	21	4	Jó			0	1	Elégtelen
+4	Deme János	F	2	2	0	1	3	8	1	Elégtelen			12	2	Elégséges
+5	Dobsa Sándor	F	3	3	4	2	4	16	3	Közepes			16	3	Közepes
+6	Gerő Krisztina	L	4	2	1	4	3	14	2	Elégséges			19	4	Jó
+7	Áger József	F	4	3	4	5	2	18	3	Közepes			24	5	Jeles
+8	Fazekas Gabriella	L	5	4	5	5	5	24	5	Jeles	Igen				
+9	Bene László	F	4	4	4	4	3	19	4	Jó					
+	Osztályátlag:		4,00	3,44	3,33	3,67	3,67	18,11	3	Közepes					
+	A fiuk átlaga:		3,83	3,50	3,50	3,33	3,50	17,67	3	Közepes					
+	A lányok átlaga:		4,33	3,33	3,00	4,33	4,00	19,00	4	Jó					

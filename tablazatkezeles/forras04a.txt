@@ -1,0 +1,14 @@
+	4000hriveny fölött -3%engedményt kap!							
+								
+sorszám	Az alkatrész megnevezése	Egységár,hr	db	Ár,hr	Ár,USD			
+1	Processzor, Cel 2 Ghz	442	1	442,00	$53,90 	1USD	8,2	hr
+2	Alaplap Asus P4P800	594	1	594,00	$72,44 			
+3	Winchester 60 Gb, Samsung	440	2	880,00	$107,32 			
+4	CD-RW/DVD LG 48-24-48	360	1	360,00	$43,90 			
+5	Hangkártya, Creative Live 5.1	167	1	167,00	$20,37 			
+6	Modem, 56k Zyxel	323	1	323,00	$39,39 			
+7	Monitor, LG F700B	810	1	810,00	$98,78 			
+8	RAM, 256	427	1	427,00	$52,07 			
+			Összesen	4003,00	$488,17 			
+			Árengedmény	3%				
+			Fizetendő	3882,91	$473,53			
